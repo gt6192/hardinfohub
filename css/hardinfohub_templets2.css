@@ -1,0 +1,1347 @@
+/* CSS for table */
+
+body{
+    padding: 00px;
+    margin: 00px;
+}
+
+/* Style 1 */
+/* Green */
+.gt-tab-style1-green{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 00px;
+}
+.gt-tab-style1-green td, .gt-tab-style1-green th{
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    border-left: hidden;
+    border-right: hidden;
+    padding: 2px 5px 2px 5px;
+}
+.gt-tab-style1-green th{
+    background-color: rgb(57, 188, 24);
+    text-align: left;
+    color: white;
+    font-family: Times;
+    font-size: 20px;
+}
+.gt-tab-style1-green td{
+    font-size: 17px;
+}
+.gt-tab-style1-green tr{
+    background-color: rgb(145, 230, 108);
+}
+.gt-tab-style1-green tr:nth-child(even){
+    background-color: rgb(201, 245, 186);
+}
+.gt-tab-style1-green tr:hover{
+    color:white;
+    background-color: rgb(57, 188, 24);
+}
+
+
+/* Blue */
+.gt-tab-style1-blue{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 00px;
+}
+.gt-tab-style1-blue td, .gt-tab-style1-blue th{
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    border-left: hidden;
+    border-right: hidden;
+    padding: 2px 5px 2px 5px;
+}
+.gt-tab-style1-blue th{
+    background-color: rgb(49, 77, 204);
+    text-align: left;
+    color: white;
+    font-family: Times;
+    font-size: 20px;
+}
+.gt-tab-style1-blue td{
+    font-size: 17px;
+}
+.gt-tab-style1-blue tr{
+    background-color: rgb(118, 136, 222);
+}
+.gt-tab-style1-blue tr:nth-child(even){
+    background-color: rgb(168, 181, 253);
+}
+.gt-tab-style1-blue tr:hover{
+    color:white;
+    background-color: rgb(49, 77, 204);
+}
+
+
+/* Red */
+.gt-tab-style1-red{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 00px;
+}
+.gt-tab-style1-red td, .gt-tab-style1-red th{
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    border-left: hidden;
+    border-right: hidden;
+    padding: 2px 5px 2px 5px;
+}
+.gt-tab-style1-red th{
+    background-color: rgb(240, 4, 22);
+    text-align: left;
+    color: white;
+    font-family: Times;
+    font-size: 20px;
+}
+.gt-tab-style1-red td{
+    font-size: 17px;
+}
+.gt-tab-style1-red tr{
+    background-color: rgb(252, 88, 101);
+}
+.gt-tab-style1-red tr:nth-child(even){
+    background-color: rgb(253, 185, 202);
+}
+.gt-tab-style1-red tr:hover{
+    color:white;
+    background-color: rgb(240, 4, 22);
+}
+
+
+/* Pink */
+.gt-tab-style1-pink{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 00px;
+}
+.gt-tab-style1-pink td, .gt-tab-style1-pink th{
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    border-left: hidden;
+    border-right: hidden;
+    padding: 2px 5px 2px 5px;
+}
+.gt-tab-style1-pink th{
+    background-color: rgb(242, 9, 67);
+    text-align: left;
+    color: white;
+    font-family: Times;
+    font-size: 20px;
+}
+.gt-tab-style1-pink td{
+    font-size: 17px;
+}
+.gt-tab-style1-pink tr{
+    background-color: rgb(252, 88, 101);
+}
+.gt-tab-style1-pink tr:nth-child(even){
+    background-color: rgb(253, 185, 202);
+}
+.gt-tab-style1-pink tr:hover{
+    color:white;
+    background-color: rgb(242, 9, 67);
+}
+
+
+/* Style 2 */
+/* Green */
+.gt-tab-style2-green{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 00px;
+}
+.gt-tab-style2-green td, .gt-tab-style2-green th{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(9, 242, 40);
+    padding: 2px 5px 2px 5px;
+}
+.gt-tab-style2-green th{
+    background-color: rgb(9, 242, 40);
+    text-align: left;
+    color: white;
+    font-family: Times;
+    font-size: 20px;
+}
+.gt-tab-style2-green td{
+    font-size: 17px;
+    color: black;
+}
+.gt-tab-style2-green td:hover{
+    background-color: rgb(9, 242, 40);
+    color:white;
+}
+
+/* Blue */
+.gt-tab-style2-blue{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 00px;
+}
+.gt-tab-style2-blue td, .gt-tab-style2-blue th{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(49, 77, 204);
+    padding: 2px 5px 2px 5px;
+}
+.gt-tab-style2-blue th{
+    background-color: rgb(49, 77, 204);
+    text-align: left;
+    color: white;
+    font-family: Times;
+    font-size: 20px;
+}
+.gt-tab-style2-blue td{
+    font-size: 17px;
+    color: black;
+}
+.gt-tab-style2-blue td:hover{
+    background-color: rgb(49, 77, 204);
+    color:white;
+}
+
+/* Red */
+.gt-tab-style2-red{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 00px;
+}
+.gt-tab-style2-red td, .gt-tab-style2-red th{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(240, 4, 22);
+    padding: 2px 5px 2px 5px;
+}
+.gt-tab-style2-red th{
+    background-color: rgb(240, 4, 22);
+    text-align: left;
+    color: white;
+    font-family: Times;
+    font-size: 20px;
+}
+.gt-tab-style2-red td{
+    font-size: 17px;
+    color: black;
+}
+.gt-tab-style2-red td:hover{
+    background-color: rgb(240, 4, 22);
+    color:white;
+}
+
+/* Pink */
+.gt-tab-style2-pink{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 00px;
+}
+.gt-tab-style2-pink td, .gt-tab-style2-pink th{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(242, 9, 67);
+    padding: 2px 5px 2px 5px;
+}
+.gt-tab-style2-pink th{
+    background-color: rgb(242, 9, 67);
+    text-align: left;
+    color: white;
+    font-family: Times;
+    font-size: 20px;
+}
+.gt-tab-style2-pink td{
+    font-size: 17px;
+    color: black;
+}
+.gt-tab-style2-pink td:hover{
+    background-color: rgb(242, 9, 67);
+    color:white;
+}
+
+/* Style 3 */
+/* simple */
+.gt-tab-style3-simple{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 00px;
+}
+.gt-tab-style3-simple td, .gt-tab-style3-simple th{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    text-align: left;
+    padding: 2px 8px 2px 8px;
+}
+.gt-tab-style3-simple td:hover, .gt-tab-style3-simple th:hover{
+    background-color: bisque;
+}
+
+/* Green */
+.gt-tab-style3-green{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 00px;
+}
+.gt-tab-style3-green td, .gt-tab-style3-green th{
+    border-style: solid;
+    border-color: white;
+    border-left: hidden;
+    border-right: hidden;
+    border-width: 1px;
+    text-align: left;
+    background-color: lime;
+    padding: 2px 8px 2px 8px;
+}
+.gt-tab-style3-green th{
+    font-size: 20px;
+    color:black;
+}
+.gt-tab-style3-green td{
+    font-size: 17px;
+    color:black;
+}
+.gt-tab-style3-green td:hover, .gt-tab-style3-green th:hover{
+    background-color: rgb(160, 235, 90);
+}
+
+/* Blue */
+.gt-tab-style3-blue{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 00px;
+}
+.gt-tab-style3-blue td, .gt-tab-style3-blue th{
+    border-style: solid;
+    border-color: white;
+    border-left: hidden;
+    border-right: hidden;
+    border-width: 1px;
+    text-align: left;
+    background-color: rgb(76, 0, 255);
+    padding: 2px 8px 2px 8px;
+}
+.gt-tab-style3-blue th{
+    font-size: 20px;
+    color:black;
+}
+.gt-tab-style3-blue td{
+    font-size: 17px;
+    color:black;
+}
+.gt-tab-style3-blue td:hover, .gt-tab-style3-blue th:hover{
+    background-color: rgb(153, 145, 229);
+}
+
+/* Red */
+.gt-tab-style3-red{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 00px;
+}
+.gt-tab-style3-red td, .gt-tab-style3-red th{
+    border-style: solid;
+    border-color: white;
+    border-left: hidden;
+    border-right: hidden;
+    border-width: 1px;
+    text-align: left;
+    background-color: rgb(255, 0, 0);
+    padding: 2px 8px 2px 8px;
+}
+.gt-tab-style3-red th{
+    font-size: 20px;
+    color:black;
+}
+.gt-tab-style3-red td{
+    font-size: 17px;
+    color:black;
+}
+.gt-tab-style3-red td:hover, .gt-tab-style3-red th:hover{
+    background-color: rgb(240, 120, 120);
+}
+
+/* Pink */
+.gt-tab-style3-pink{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 00px;
+}
+.gt-tab-style3-pink td, .gt-tab-style3-pink th{
+    border-style: solid;
+    border-color: white;
+    border-left: hidden;
+    border-right: hidden;
+    border-width: 1px;
+    text-align: left;
+    background-color: rgb(255, 0, 140);
+    padding: 2px 8px 2px 8px;
+}
+.gt-tab-style3-pink th{
+    font-size: 20px;
+    color:black;
+}
+.gt-tab-style3-pink td{
+    font-size: 17px;
+    color:black;
+}
+.gt-tab-style3-pink td:hover, .gt-tab-style3-pink th:hover{
+    background-color: rgb(243, 122, 207);
+}
+
+/* Black */
+.gt-tab-style3-black{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 00px;
+}
+.gt-tab-style3-black td, .gt-tab-style3-black th{
+    border-style: solid;
+    border-color: white;
+    border-left: hidden;
+    border-right: hidden;
+    border-width: 1px;
+    text-align: left;
+    background-color: rgb(7, 7, 7);
+    padding: 2px 8px 2px 8px;
+}
+.gt-tab-style3-black th{
+    font-size: 20px;
+    color:white;
+}
+.gt-tab-style3-black td{
+    font-size: 17px;
+    color:white;
+}
+.gt-tab-style3-black td:hover, .gt-tab-style3-black th:hover{
+    background-color: rgb(26, 23, 24);
+}
+/* --------------------------------------------------------*/
+
+
+/*CSS for heading bar*/
+/*fixed*/
+.gt-fixed{
+    position: fixed;
+    top: 0;
+    overflow: hidden;
+}
+
+.gt-heading-simple{
+    margin: 00px;
+    padding: 10px;
+}
+.gt-heading-simple h1, h2, h3, h4, h5, h6, p{
+    margin: 00px;
+    padding: 10px;
+}
+
+/*color black*/
+/*left*/
+.gt-heading-left-black{
+    margin: 00px;    
+    background-color: black;
+    color: white;
+    width: 100%;
+    overflow: hidden;
+}
+.gt-heading-left-black h1, h2, h3, h4, h5, h6, p{
+    margin: 00px;
+    padding: 10px;
+}
+
+/*right*/
+.gt-heading-right-black{
+    margin: 00px;
+    background-color: black;
+    color: white;
+    text-align: right;
+    width: 100%;
+    overflow: hidden;
+
+}
+.gt-heading-right-black h1, h2, h3, h4, h5, h6, p{
+    margin: 00px;
+    padding: 10px;
+}
+
+/*center*/
+.gt-heading-center-black{
+    margin: 00px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+}
+.gt-heading-center-black h1, h2, h3, h4, h5, h6, p{
+    margin: 00px;
+    padding: 10px;
+}
+
+/*color white*/
+/*left*/
+.gt-heading-left-white{
+    margin: 00px;
+    width: 100%;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    overflow: hidden;
+}
+.gt-heading-left-white h1, h2, h3, h4, h5, h6, p{
+    margin: 00px;
+    padding: 10px;
+}
+
+/*right*/
+.gt-heading-right-white{
+    margin: 00px;
+    width: 100%;
+    background-color: white;
+    text-align: right;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    overflow: hidden;
+}
+.gt-heading-right-white h1, h2, h3, h4, h5, h6, p{
+    margin: 00px;
+    padding: 10px;
+}
+
+/*center*/
+.gt-heading-center-white{
+    margin: 00px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    overflow: hidden;
+}
+.gt-heading-center-white h1, h2, h3, h4, h5, h6, p, a{
+    margin: 00px;
+    padding: 10px;
+}
+/* --------------------------------------------------------*/
+
+
+
+
+/*CSS for navigation bar*/
+
+.gt-active-green{
+    background-color: yellowgreen;
+}
+
+.gt-active-red{
+    background-color: red;
+}
+
+.gt-active-blue{
+    background-color: blue;
+}
+
+.gt-active-yellow{
+    background-color: yellow;
+}
+
+.gt-active-white{
+    background-color: rgb(227, 233, 233);
+}
+
+.gt-navbar-left-black-ctag{
+    float: left;
+    font-size: 30px;
+    text-align:center;
+    font-weight: bold;
+    margin: 0px;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.gt-navbar-right-black-ctag{
+    float: right;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*Style 1*/
+/*color black*/
+/*left*/
+.gt-navbar-left-black{
+    margin: 0px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    height: auto;
+    overflow: hidden;
+}
+.gt-navbar-left-black a{
+    display: inline-block;
+    margin: 0px;
+    text-decoration: none;
+    color: white;
+    padding: 20px 15px 20px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.gt-navbar-left-black a:hover{
+    background-color: rgb(69, 71, 71);
+}
+.gt-navbar-left-black h1, h2, h3, h4, h5, h6, p{
+    margin: 00px;
+}
+
+
+/*right*/
+.gt-navbar-right-black{
+    margin: 0px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: auto;
+    text-align: right;
+    overflow: hidden;
+}
+.gt-navbar-right-black a{
+    display: inline-block;
+    margin: 0px;
+    text-decoration: none;
+    color: white;
+    padding: 20px 15px 20px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.gt-navbar-right-black a:hover{
+    background-color: rgb(69, 71, 71);
+}
+.gt-navbar-right-black h1, h2, h3, h4, h5, h6, p{
+    margin: 00px;
+}
+
+
+@media screen and (max-width:600px){
+    .gt-navbar-left-black a{
+        width: 100%;
+        display: inline-block;
+        overflow: hidden;
+    }
+    .gt-navbar-right-black a{
+        text-align: left;
+        width: 100%;
+        overflow: hidden;
+    }
+    .gt-navbar-left-black-ctag{
+        float: none;
+        overflow: hidden;
+    }
+    
+    .gt-navbar-right-black-ctag{
+        float: none;
+        overflow: hidden;
+    }
+}
+
+
+/*color white*/
+.gt-navbar-left-white-ctag{
+    float: left;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 10px 15px 10px 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.gt-navbar-right-white-ctag{
+    float: right;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 10px 15px 10px 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*left*/
+.gt-navbar-left-white{
+    margin: 0px;
+    background-color: white;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.gt-navbar-left-white a{
+    display: inline-block;
+    color: black;
+    margin: 5px;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 20px 15px 20px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    overflow: hidden;
+}
+.gt-navbar-left-white a:hover{
+    background-color: rgb(227, 233, 233);
+}
+.gt-navbar-left-white h1, h2, h3, h4, h5, h6, p{
+    margin: 00px;
+}
+
+
+/*right*/
+.gt-navbar-right-white{
+    margin: 0px;
+    background-color: white;
+    width: 100%;
+    height: auto;
+    text-align: right;
+    overflow: hidden;
+}
+.gt-navbar-right-white a{
+    display: inline-block;
+    color: black;
+    margin: 5px;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 20px 15px 20px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    overflow: hidden;
+}
+.gt-navbar-right-white a:hover{
+    background-color: rgb(227, 233, 233);
+}
+.gt-navbar-right-white h1, h2, h3, h4, h5, h6, p{
+    margin: 00px;
+}
+
+
+@media screen and (max-width:600px){
+    .gt-navbar-left-white a{
+        width: 100%;
+        border-radius: 00px;
+        margin: 0px;
+    }
+    .gt-navbar-right-white a{
+        text-align: left;
+        width: 100%;
+        border-radius: 00px;
+        margin: 0px;
+    }
+    .gt-navbar-left-white-ctag{
+        float: none;
+    }
+    
+    .gt-navbar-right-white-ctag{
+        float: none;
+    }
+}
+/* --------------------------------------------------------*/
+
+
+/*CSS for Lists*/
+/*style 1*/
+/*White*/
+/*left*/
+.gt-list-left-white{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(247, 244, 244);
+    overflow: hidden;
+    list-style: none;
+}
+
+.gt-list-left-white li{
+    background-color: rgb(240, 236, 236);
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+}
+.gt-list-left-white li:hover{
+    background-color: white;
+}
+
+/*right*/
+.gt-list-right-white{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(247, 244, 244);
+    list-style: none;
+}
+
+.gt-list-right-white li{
+    background-color: rgb(240, 236, 236);
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: right;
+}
+.gt-list-right-white li:hover{
+    background-color: white;
+}
+
+/*center*/
+.gt-list-center-white{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(247, 244, 244);
+    list-style: none;
+}
+
+.gt-list-center-white li{
+    background-color: rgb(240, 236, 236);
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+.gt-list-center-white li:hover{
+    background-color: white;
+}
+
+/*Black*/
+/*left*/
+.gt-list-left-black{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(49, 49, 49);
+    overflow: hidden;
+    list-style: none;
+}
+
+.gt-list-left-black li{
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    color: white;
+}
+.gt-list-left-black li:hover{
+    background-color: rgb(75, 72, 72);
+}
+
+/*right*/
+.gt-list-right-black{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(49, 49, 49);
+    list-style: none;
+}
+
+.gt-list-right-black li{
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: right;
+    color: white;
+}
+.gt-list-right-black li:hover{
+    background-color: rgb(75, 72, 72);
+}
+
+/*center*/
+.gt-list-center-black{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(49, 49, 49);
+    list-style: none;
+}
+
+.gt-list-center-black li{
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+.gt-list-center-black li:hover{
+    background-color: rgb(75, 72, 72);
+}
+
+
+/*style 2*/
+/*White*/
+/*left*/
+.gt-list2-left-white{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(247, 244, 244);
+    display: unset;
+    list-style: none;
+}
+
+.gt-list2-left-white li{
+    background-color: rgb(240, 236, 236);
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+}
+.gt-list2-left-white li:hover{
+    background-color: white;
+}
+
+/*right*/
+.gt-list2-right-white{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(247, 244, 244);
+    display: unset;
+    list-style: none;
+}
+
+.gt-list2-right-white li{
+    background-color: rgb(240, 236, 236);
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: right;
+}
+.gt-list2-right-white li:hover{
+    background-color: white;
+}
+
+/*center*/
+.gt-list2-center-white{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(247, 244, 244);
+    display: unset;
+    list-style: none;
+}
+
+.gt-list2-center-white li{
+    background-color: rgb(240, 236, 236);
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+.gt-list2-center-white li:hover{
+    background-color: white;
+}
+
+/*Black*/
+/*left*/
+.gt-list2-left-black{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(49, 49, 49);
+    display: unset;
+    list-style: none;
+}
+
+.gt-list2-left-black li{
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    color: white;
+}
+.gt-list2-left-black li:hover{
+    background-color: rgb(75, 72, 72);
+}
+
+/*right*/
+.gt-list2-right-black{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(49, 49, 49);
+    display: unset;
+    list-style: none;
+}
+
+.gt-list2-right-black li{
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: right;
+    color: white;
+}
+.gt-list2-right-black li:hover{
+    background-color: rgb(75, 72, 72);
+}
+
+/*center*/
+.gt-list2-center-black{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(49, 49, 49);
+    display: unset;
+    list-style: none;
+}
+
+.gt-list2-center-black li{
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+.gt-list2-center-black li:hover{
+    background-color: rgb(75, 72, 72);
+}
+
+
+/*style 3*/
+/*White*/
+/*left*/
+.gt-list3-left-white{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(247, 244, 244);
+    display: inline-block;
+    list-style: none;
+}
+
+.gt-list3-left-white li{
+    background-color: rgb(240, 236, 236);
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+/*right*/
+.gt-list3-right-white{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(247, 244, 244);
+    display: inline-block;
+    list-style: none;
+}
+
+.gt-list3-right-white li{
+    background-color: rgb(240, 236, 236);
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: right;
+}
+
+/*center*/
+.gt-list3-center-white{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(247, 244, 244);
+    display: inline-block;
+    list-style: none;
+}
+
+.gt-list3-center-white li{
+    background-color: rgb(240, 236, 236);
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+
+/*Black*/
+/*left*/
+.gt-list3-left-black{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(49, 49, 49);
+    display: inline-block;
+    list-style: none;
+}
+
+.gt-list3-left-black li{
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+/*right*/
+.gt-list3-right-black{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(49, 49, 49);
+    display: inline-block;
+    list-style: none;
+}
+
+.gt-list3-right-black li{
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: right;
+    color: white;
+}
+
+/*center*/
+.gt-list3-center-black{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    background-color: rgb(49, 49, 49);
+    display: inline-block;
+    list-style: none;
+}
+
+.gt-list3-center-black li{
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+/*style 3*/
+/*White*/
+/*left*/
+.gt-list4-left-white{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    display: inline-block;
+    list-style: none;
+}
+
+.gt-list4-left-white li{
+    background-color: rgb(240, 236, 236);
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+/*right*/
+.gt-list4-right-white{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    display: inline-block;
+    list-style: none;
+}
+
+.gt-list4-right-white li{
+    background-color: rgb(240, 236, 236);
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: right;
+}
+
+/*center*/
+.gt-list4-center-white{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    display: inline-block;
+    list-style: none;
+}
+
+.gt-list4-center-white li{
+    background-color: rgb(240, 236, 236);
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+
+/*Black*/
+/*left*/
+.gt-list4-left-black{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    display: inline-block;
+    list-style: none;
+}
+
+.gt-list4-left-black li{
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+/*right*/
+.gt-list4-right-black{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    display: inline-block;
+    list-style: none;
+}
+
+.gt-list4-right-black li{
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: right;
+    color: white;
+}
+
+/*center*/
+.gt-list4-center-black{
+    margin: 00px;
+    padding: 5px 00px 5px 00px;
+    display: inline-block;
+    list-style: none;
+}
+
+.gt-list4-center-black li{
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+/* --------------------------------------------------------*/
+
+
+/* CSS for Form */
+.gt-form-continer{
+    padding: 20px 20px 10px 20px;
+    border-radius: 30px;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 2px;
+    border-color: gray;
+    border-style: solid;
+}
+.gt-form-text{
+    width: 100%;
+    padding: 10px 0px;
+    border-radius: 10px;
+    border-style: solid;
+    display: inline-block;
+    border-width: 1.5px;
+    border-color: gray;
+}
+.gt-button{
+    width: 100%;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border-style: solid;
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+}
+.gt-form-btn-green{
+    background-color: rgb(6, 248, 6);
+    border-color: rgb(6, 248, 6);
+}
+.gt-form-btn-blue{
+    background-color: rgb(71, 6, 248);
+    border-color: rgb(71, 6, 248);
+}
+.gt-form-btn-red{
+    background-color: rgb(248, 6, 6);
+    border-color: rgb(248, 6, 6);
+}
+.gt-form-btn-black{
+    background-color: rgb(5, 5, 5);
+    border-color: rgb(5, 5, 5);
+}
+.gt-form-btn-white{
+    background-color: rgb(249, 252, 249);
+    border-color: rgb(249, 252, 249);
+    color: black;
+}
+.gt-form-btn-green:hover,.gt-form-btn-blue:hover,.gt-form-btn-red:hover,.gt-form-btn-black:hover,.gt-form-btn-white:hover{
+    opacity: 0.7;
+}
+/* --------------------------------------------------------*/
+
+
+
+/*CSS for Images*/
+.gt-img-style1{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+}
+
+.gt-img-style2{
+    border-style: solid;
+    border-color: black;
+    border-width: 8px;
+}
+
+.gt-img-style3{
+    border-radius: 10px;
+    box-shadow: 1px 2px 10px black;
+}
+
+.gt-img-style4{
+    border-radius: 50px;
+    box-shadow: 1px 2px 10px black;
+}
+
+.gt-img-style5{
+    border-radius: 50%;
+    box-shadow: 1px 2px 10px black;
+}
+
+.gt-img-style6{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    box-shadow: 1px 2px 10px black;
+}
+
+.gt-img-style7{
+    padding: 10px;
+    box-shadow:inset 2px 2px 10px black;
+}
+
+.gt-img-border{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+}
+/* --------------------------------------------------------*/
+
+
+/*CSS for Image continer*/
+.gt-img-cont1{
+    max-width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+    background-color: rgb(199, 194, 194);
+}
+.gt-img-cont1 img{
+    width: 100%;
+    height: auto;
+}
+
+.gt-img-cont2{
+    max-width: 200px;
+    height: 200px;
+    overflow: hidden;
+    background-color: rgb(199, 194, 194);
+}
+.gt-img-cont2 img{
+    width: 100%;
+    height: auto;
+}
+/* --------------------------------------------------------*/
